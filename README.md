@@ -1,0 +1,1 @@
+# -Hamming-Code-7-4-Encoder-Decoder-in-Verilog
